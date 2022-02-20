@@ -18,7 +18,7 @@ For analysis, two datasets are used `Iris` and `Spiral`. The Iris dataset is tak
 The rationale behind the two chosen datasets is that the Iris dataset is based on real-life properties of three types of species of flowers. Therefore, the three species are naturally separable from each other into different clusters. On the other hand, the Spiral dataset is synthetically generated and its spiral nature makes the data extremely hard for clustering algorithms to separate into different clusters. Spiral is deliberately chosen to illustrate the weaknesses and caveats of some of the clustering methods.
 
 ## Authors
-* Gupta Jay
-* Dandapath Soham
-* Kanodia Ritwik
-* Mundhra Divyesh
+* [Gupta Jay](https://github.com/guptajay)
+* [Kanodia Ritwik](https://github.com/ritwikkanodia)
+* [Dandapath Soham](https://github.com/12dash)
+* [Mundhra Divyesh](https://github.com/divyeshmundhra)
